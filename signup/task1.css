@@ -12,6 +12,10 @@ body{
 background:url(../image/background.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+background-attachment: fixed;
+background-position:center;
+display: flex;
+justify-content: center;
  
     font-family: 'Times New Roman', Times, serif;
 }
